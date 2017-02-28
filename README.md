@@ -1,3 +1,2 @@
-# Aussie-Park-history
-Family history
+# Teaching repository
 My interest is in recording family history 
